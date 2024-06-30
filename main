@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Valor - Consultoría en Inversiones</title>
+    <!-- Enlaces a estilos CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#equipo">Equipo</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="inicio">
+        <div class="container">
+            <h1>Proyecto Valor</h1>
+            <p>Consultoría especializada en inversiones y ciencia de datos.</p>
+        </div>
+    </section>
+    <section id="servicios">
+        <div class="container">
+            <h2>Servicios</h2>
+            <ul>
+                <li>Análisis de proyectos de inversión.</li>
+                <li>Modelado y gestión de riesgos.</li>
+                <li>Optimización de carteras de inversión.</li>
+                <!-- Añade más servicios -->
+            </ul>
+        </div>
+    </section>
+    <section id="equipo">
+        <div class="container">
+            <h2>Nuestro Equipo</h2>
+            <p>Conoce a nuestro equipo de expertos en inversiones y economía.</p>
+        </div>
+    </section>
+    <section id="contacto">
+        <div class="container">
+            <h2>Contacto</h2>
+            <p>Para más información, contáctanos:</p>
+            <p>Email: info@proyectovalor.lat</p>
+            <p>Teléfono: +123456789</p>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Proyecto Valor. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
